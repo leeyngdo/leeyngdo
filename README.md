@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### Lee Youngdo
+#### Youngdo Lee
 
 Undergraduate student @KAIST
 
