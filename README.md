@@ -1,9 +1,9 @@
 ## Hi there 👋
 #### Youngdo Lee
 
-Undergraduate student @KAIST
+Undergraduate student @KAIST, 
 
-KAIST Presidential Fellowship, KPF
+KPF especially KAIST Presidential Fellowship
 
 - 🔭 I’m currently working on KAIST DM Lab
 - 🌱 I’m currently learning ML, Mathematics 
