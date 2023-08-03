@@ -4,7 +4,7 @@
 Undergraduate student @KAIST, 
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ML, Mathematics 
-- 📫 How to reach me: 
+- 🔭 I’m currently working at home.
+- 🌱 I’m currently learning AI and Mathematics.
+- 📫 Personal Blog: [Here!](https://leeyngdo.github.io/)
 
