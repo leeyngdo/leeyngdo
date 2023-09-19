@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🐂
 #### Youngdo Lee
 
 Undergraduate student @KAIST, 
