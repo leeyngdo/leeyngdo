@@ -1,7 +1,7 @@
 ## Hi there 🐂
 #### Youngdo Lee
 
-Undergraduate student @KAIST
+Master Student @KAIST AI
 
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning AI and Mathematics.
